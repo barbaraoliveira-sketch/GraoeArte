@@ -27,8 +27,8 @@ sans-serif; --font-size-sm: 1.4rem;
 --font-size-xl: 3.2rem;  
 /* Sombras e Efeitos */  
 --shadow-card: 0 10px 20px -5px rgba(120, 53, 15, 0.12); 
---shadow-hover: 0 15px 30px -5px rgba(120, 53, 15, 
-0.25); --radius-sm: 0.6rem;  
+--shadow-hover: 0 15px 30px -5px rgba(120, 53, 15, 0.25);
+--radius-sm: 0.6rem;  
 --radius-md: 1.2rem;  
 --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);  
 } 
